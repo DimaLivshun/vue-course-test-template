@@ -1,0 +1,19 @@
+@import '@/assets/styles/reset.scss';
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+body {
+  background: #232323;
+}
+
+#app {
+  max-width: 1920px;
+  margin: 0 auto;
+}
